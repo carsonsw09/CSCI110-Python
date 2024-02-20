@@ -26,18 +26,18 @@
 
 | Name | Value |
 | :--- | :--- |
-| Problem # | 
-| Due Date |
-| Status |
-| Location |
+| Problem # | 3.8.11 |
+| Due Date | 2/19/2024 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments |
 
 ### Hw #3
 
 | Name | Value |
 | :--- | :--- |
 | Problem # | 
-| Due Date |
-| Status |
+| Due Date | 2/26/2024 |
+| Status | Unfinished |
 | Location |
 
 ### Hw #4
@@ -45,8 +45,8 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 
-| Due Date |
-| Status |
+| Due Date | 3/4/2024 |
+| Status | Unfinished |
 | Location |
 
 ### Hw #5
@@ -54,8 +54,8 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 
-| Due Date |
-| Status |
+| Due Date | 3/11/2024 |
+| Status | Unfinished |
 | Location |
 
 ### Hw #6
@@ -63,8 +63,8 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 
-| Due Date |
-| Status |
+| Due Date | 3/18/2024 |
+| Status | Unfinished |
 | Location |
 
 ### Hw #7
