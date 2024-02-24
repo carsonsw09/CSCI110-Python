@@ -54,7 +54,7 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 5.14.8 |
-| Due Date | | 3/4/2024 |
+| Due Date |  3/4/2024 |
 | Status | Finished |
 | Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%234 |
 
