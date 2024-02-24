@@ -37,8 +37,8 @@
 | :--- | :--- |
 | Problem # | 4.9.2 |
 | Due Date | 2/26/2024 |
-| Status | Unfinished |
-| Location |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%233 |
 
 ### Hw #4
 
