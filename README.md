@@ -64,8 +64,8 @@
 | :--- | :--- | 
 | Problem # | 6.9.7 |
 | Due Date | 3/11/2024 |
-| Status | Unfinished |
-| Location |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%235 |
 
 ### Hw #6
 
