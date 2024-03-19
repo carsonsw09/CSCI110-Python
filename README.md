@@ -73,8 +73,9 @@
 | :--- | :--- |
 | Problem # | 7.26.9 |
 | Due Date | 3/18/2024 |
-| Status | Unfinished |
-| Location |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%236 |
+
 
 ### Hw #7
 
