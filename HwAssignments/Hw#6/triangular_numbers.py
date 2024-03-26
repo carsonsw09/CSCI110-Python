@@ -12,8 +12,9 @@ import sys
 ## provided to figure out the number of triangles
 
 def print_triangular_numbers(n):
+    
     ans = ((n*(n+1))/2)
-    return ans
+    return int(ans)
 
 ## The main function below intakes user input, calls the print_triangular_numbers(n),
 ## and then displays the result to the user
@@ -28,10 +29,10 @@ def test_cases():
 
 def main():
     n = int(input("Please enter a value: "))
-    
-    ans = print_triangular_numbers(n)
-    
-    print("The amount of number of triangles is:  " + str(ans) + ".")
+    for i in range(1, n+1):
+        
+        ans = print_triangular_numbers(i)
+        print(f"{i} {ans}")
     
     test_cases()
     
