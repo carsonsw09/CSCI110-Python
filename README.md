@@ -91,9 +91,9 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 11.22.10 |
-| Due Date |
-| Status | Unfinished |
-| Location |
+| Due Date | 4/8/2024 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%238 |
 
 ### Hw #9
 
