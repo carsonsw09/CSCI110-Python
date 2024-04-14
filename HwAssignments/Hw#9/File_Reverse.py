@@ -15,8 +15,15 @@ output_file = input(" Please enter the output file name. ")
 with open(input_file, 'r') as file:
     read_lines = file.readlines()
     
+## The lines above open the input file entered by the user, then reads the text seperating it by lines
+    
 read_lines.reverse()
+
+## The line above reverses the order of the lines that were read in 
 
 with open(output_file,'w') as file:
     file.writelines(read_lines)
+
+## The lines above open the output file and then writes the reversed order of the lines
+## I opted for user innput as my VScode has troubles finding txt files stored in it
     

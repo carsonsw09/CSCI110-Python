@@ -100,9 +100,9 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 13.10.1 |
-| Due Date |
-| Status | Unfinished |
-| Location |
+| Due Date | 4/15/2024 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%239 |
 
 ### Hw #10
 
