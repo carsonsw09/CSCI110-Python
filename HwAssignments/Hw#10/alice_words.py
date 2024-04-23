@@ -1,4 +1,4 @@
-## This is made by Carson White
+## Made by: Carson White
 ## Due Date: 4/22/2024
 ## Problem: 20.8.3
 
@@ -38,8 +38,12 @@ def write_frequencies(frequencies, output_file):  ## The code below writes the o
         file.write("=======================\n")
         for word, count in frequencies:
             file.write(f"{word:<16}{count:>4}\n")
+            
+## Below are the statements to intake the input and output file and then
+## creating a variable frequencies that is passeed the result of word_frequency
+## on the input file. The frequencies variable is then passed into write_frequencies to
+## output the frequencies to the user
 
-# Main execution
 input_file = input("Please enter the name of the input file: ")
 output_file = input("Please enter the name of the output file: ")
 
