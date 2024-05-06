@@ -118,8 +118,8 @@
 | Name | Value |
 | :--- | :--- |
 | Problem # | 19.6. 1 |
-| Due Date |
-| Status | Unfinished |
-| Location |
+| Due Date | 5/6/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%2311 |
 
 
