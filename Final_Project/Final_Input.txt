@@ -1,0 +1,39 @@
+Question: How many states are in the United States of America?
+Options: 39, 50, 27, 125
+Answer: 50
+
+Question: What is the closet planet to the sun?
+Options: Jupiter, Mars, Uranus, Mercury
+Answer: Mercury
+
+Question: What is the capital city of Argentina?
+Options: Buenos Aires, Rosario, Salta, Boston
+Answer: Buenos Aires
+
+Question: Is Chick-Fil-a open on Sundays?
+Options: Yes, No
+Answer: No
+
+Question: What is the process of turning water into vapor?
+Options: Condensation, Vaporization, Melting, raising
+Answer: Vaporization
+
+Question: On the periodic table which element is represented by the letter N?
+Options: Neon, Nickel, Carbon, Nitrogen
+Answer: Nitrogen
+
+Question: What is the longest river in the United States?
+Options: Colorado, Mississipi, Missouri, Arkansas
+Answer: Missouri
+
+Question: Whose picture is on the fiver dollar bill?
+Options: Ben Franklin, James Madison, Abraham Lincoln, John Adams
+Answer: Abraham Lincoln
+
+Question: What is the square root of 121?
+Options: 9, 27, 11, 12
+Answer: 11
+
+Question: If a car is travelling at 30mph how many hours will it take to drive 75 miles?
+Options: 1, 3.5, 2, 2.5
+Answer: 2.5

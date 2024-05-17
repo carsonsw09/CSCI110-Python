@@ -1,0 +1,39 @@
+Question: What is the only food that can never go bad?
+Options: Berries, Jerky, Honey, Potatoes
+Answer: Honey
+
+Question: The unicorn is the national animal of which country?
+Options: Belarus, Scotland, Romania, Albania
+Answer: Scotland
+
+Question: What is the largest prime number that occurs after 20?
+Options:  21, 22, 23, 27
+Answer: 23
+
+Question: How many senators are there in congress?
+Options: 55, 75, 100, 265
+Answer: 100
+
+Question: Which of the following is not one of the branches of government?
+Options: Judicial, Executive, Federal, Legislative
+Answer: Legislative
+
+Question: True or false, the price of the mcspicy has decreased over the past two years?
+Options: True, False
+Answer: False
+
+Question: Basketball was invented in what country?
+Options: USA, England, Canada, France
+Answer: Canada
+
+Question: From which country did the United States by Louisiana
+Options: England, Spain, France, Mexico
+Answer: France
+
+Question: Which country has won the most world cups?
+Options: Brazil, Argentina, Spain, Italy
+Answer: Brazil
+
+Question: Do you like this game and think it should get an A?
+Options: yes, no
+Answer: yes

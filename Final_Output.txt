@@ -1,0 +1,7 @@
+Are you smarter than a 5th grader?
+Score: 1/4 (25.00%)
+Sorry, you are not smarter than a 5th grader.
+You got the following questions wrong:
+- Question: Is Chick-Fil-a open on Sundays?
+- Question: What is the longest river in the United States?
+- Question: If a car is travelling at 30mph how many hours will it take to drive 75 miles?
