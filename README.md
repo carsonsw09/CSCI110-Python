@@ -11,6 +11,14 @@
 | **GitHub Username** | carsonsw09 |
 | **Repository Link** | https://github.com/carsonsw09/CSCI110-Python |
 
+## Final Project
+| Name | Value |
+| :--- | :--- |
+| Final Project | Are you smarter than a 5th grader? |
+| Due Date | 5/17/2024 |
+| Status | Finished |
+| Notes | There are two input files for two games, my computer is finicky about input files so that is why I ask for the input and output file paths |
+
 ## Hw Assignments 
 
 ### Hw #1
@@ -121,5 +129,7 @@
 | Due Date | 5/6/24 |
 | Status | Finished |
 | Location | https://github.com/carsonsw09/CSCI110-Python/tree/main/HwAssignments/Hw%2311 |
+
+
 
 
